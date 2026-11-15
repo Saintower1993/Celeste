@@ -1,0 +1,710 @@
+Dial1126=
+[MADELINE surprised left]
+这里要怎么过？！
+[BADELINE scoff left]
+简单，把我的力量借你不就行了。
+[MADELINE upset left]
+“借”？
+[BADELINE scoff left]
+没错，“借”你，要还的。
+
+poem_Saintower_BeyondSky_BeyondSky_A=天空之上
+
+Saintower_BeyondSky=世界之上
+
+Saintower_BeyondSky_BeyondSky=天空之上
+
+Saintower_BeyondSky_Puzzle=迷失之境
+
+poem_Saintower_BeyondSky_Puzzle_A=迷失之境
+
+Dial1099=
+[MADELINE upset left]
+？
+[BADELINE yell left]
+别发问号了，快逃！！
+
+Dial1578=
+[MADELINE normal left]
+我们成功啦！
+[BADELINE normal left]
+好耶~！不过…
+[MADELINE normal left]
+怎么了？
+[BADELINE sigh left]
+刚才把你抛起来的时候，有点费劲，你是不是又变胖了？
+[MADELINE angry left]
+{big}爬！！！{/big}
+
+Dial1580=
+[MADELINE panic left]
+我感觉快要不行了…
+[BADELINE yell left]
+还不能放弃！马上就要成功了！
+[MADELINE determined left]
+……嗯
+[MADELINE peaceful left]
+深呼吸，再试一次吧~
+
+Dial1661=
+欢迎来到困兽竞技场。
+按下开关后，尝试生存20秒吧。
+挑战成功者将会获得神秘奖励！
+[MADELINE upset left]
+奖励会是什么呢，好难猜啊。
+
+Dial1662=
+[MADELINE angry left]
+这破竞技场到底是谁设计的！！
+
+PuzzleDial01=
+In this map, you will see a certain numbers of Dream Blocks, and you need to dash through them under specific conditions and sequence.
+There are two modes of the game: {#FF0064}Red Mode{#} and {#5FCDE4}Blue Mode{#}. When you dash through a Dream Block in {#FF0064}Red Mode{#}, you will turn it into Lava.
+To win the game, you must turn all the 15 Dream Blocks into Lava.
+
+PuzzleDial02=
+In {#5FCDE4}Blue Mode{#}, you cannot turn Dream Blocks into Lava, and all the Lava you've already turned will be temporarily neutralized so you can safely go through them. 
+However, in this mode, there will also be Ice Wall blocking your way.
+
+PuzzleDial03=
+When you enter the map, you will first be in Viewer Mode and cannot interact with most of the entities.
+You need to pick one of the {#5FCDE4}Blue Switches{#} to turn on and start the game in {#5FCDE4}Blue Mode{#}. Remember, the location you pick is critical to solve the puzzle.
+
+PuzzleDial04=
+After the game starts, you can pick up keys to unlock {#FF0064}Red Switches{#} and change the mode to {#FF0064}Red Mode{#}.
+Note that keys can only be picked up in {#5FCDE4}Blue Mode{#} and all the switches are for one-time use.
+
+PuzzleDial05=
+Due to this map containing a lot of triggers, it may start lagging after running for a while. If this happens, please quit the map and re-enter.
+Thanks for playing!
+
+modname_Saintower=世界之上
+endscreen_collabname_Saintower=世界之上
+Saintower_0_Lobbies=世界之上
+Saintower_0_Lobbies_BeyondSky=天空之上
+Saintower_0_Lobbies_TheLink=羁绊
+Saintower_0_Lobbies_Puzzle=迷失之境
+poem_Saintower_0_Lobbies_TheLink_A=羁绊
+poem_Saintower_TheLink=不可阻挡的羁绊
+poem_Saintower_0_Lobbies_Puzzle_A=迷失之境
+Saintower_0_Lobbies_zMyth=银之塔
+poem_Saintower_0_Lobbies_zMyth_A=双生
+Saintower_0_Lobbies_zz02Castle=幻城
+
+DialLink01=
+[BADELINE worriedAlt left]
+Madeline，快醒醒。
+[MADELINE distracted left]
+这里...是哪里？
+[BADELINE worriedAlt left]
+你什么都不记得了吗？
+[MADELINE distracted left]
+我记得...我们在从{#FFCC00}山之心{#}回来的路上。
+然后，不知道发生了什么，突然就失去了意识。
+等到回过神的时候，就已经在这里了。
+[MADELINE panic left]
+这个地方好可怕...
+[BADELINE worried left]
+是的...我们得赶紧逃出去。
+
+DialLink02=
+[BADELINE worriedAlt left]
+我讨厌这些墙上的眼睛。
+[MADELINE distracted left]
+是的...感觉一直在被它们监视着。
+[MADELINE normal left]
+不过你有没有发现，这个房间的眼睛好像变少了？
+说不定我们快要逃出去了。
+[BADELINE worried left]
+希望吧。
+
+DialLink04=
+[MADELINE surprised left]
+这些眼睛在攻击我们！！
+
+DialLink03=
+{#600000}{*}{big}你 逃 不 掉 的{/big}{/*}{#}
+(毫无预兆地，如同恶魔低语般的声音在耳畔响起。）
+[MADELINE panic left]
+这是什么声音...
+[BADELINE worriedAlt left]
+不知道...可能是这个墓穴的主人吧？
+[MADELINE panic left]
+我好害怕...我们是不是要被永远困在这里了？
+[BADELINE concerned left]
+听我说，Madeline，冷静下来。
+仔细分析一下刚才眼睛攻击的模式，接下来可能还会遇到类似的攻击。
+别害怕，我们一定能逃出去的。
+[MADELINE distracted left]
+......
+真的吗？
+[BADELINE normal left]
+真的，我保证。
+而且，我会一直在你身边保护你的。
+[MADELINE peaceful left]
+谢谢你，另一个我。
+
+DialLinkFall=
+{#600000}{*}{big}坠入深渊吧{/big}{/*}{#}
+{#600000}{*}{big}-坠-{/big}{/*}{#}
+{#600000}{*}{big}-入-{/big}{/*}{#}
+{#600000}{*}{big}-深-{/big}{/*}{#}
+{#600000}{*}{big}-渊-{/big}{/*}{#}
+
+DialLinkEye=
+[MADELINE upset left]
+什么地狱绘图。
+[BADELINE concerned left]
+观察一下那些眼睛攻击的规律。
+也许有办法规避它们？
+
+DialLinkEscape=
+[BADELINE worried left]
+刚才好危险。
+[MADELINE normal left]
+是呀，不过还好我们躲过去了。
+我看到前面有亮光，说不定是出口呢。
+[BADELINE normal left]
+加油，马上就要逃出去了。
+
+DialLinkHappy=
+[BADELINE normal left]
+看到出口了~
+
+DialLinkMock=
+{#600000}{*}{big}哈哈哈哈哈哈{/big}{/*}{#}
+{#600000}{*}{big}你永远也别想逃出去{/big}{/*}{#}
+
+DialNewLink01=
+{#600000}{*}{big}怎么可能？！{/big}{/*}{#}
+{#600000}所有听到我声音的人都会被我蛊惑，坠入深渊。{#}
+{#600000}你是怎么逃出来的？{#}
+[MADELINE upset left]
+这个老登的话真的有点多了。
+你是在经历中年危机吗？
+[]
+{#600000}{*}{big}呵..呵呵...{/big}{/*}{#}
+{#600000}狂妄之人，有本事就接着向前走吧。{#}
+{#600000}我看你能笑到什么时候。{#}
+
+DialNewLink02=
+[MADELINE surprised left]
+这要怎么跳过去？？
+[]
+{#600000}{*}{big}放弃挣扎吧{/big}{/*}{#}
+{#600000}你是逃不出我的手掌心的，凡人。{#}
+[BADELINE yell left]
+别听他胡说！
+不试试怎么知道呢！
+
+DialNewLink03=
+[MADELINE normal left]
+我们居然成功了！
+[BADELINE scoff left]
+我说过，我会保护你的。
+
+DialNewLink04=
+{#600000}{*}{big}岂有此理...{/big}{/*}{#}
+{#600000}为什么你能够一次次突破我的禁制？{#}
+[MADELINE upset left]
+{big}你 弱 爆 了。{/big}
+
+DialNewLink05=
+{#600000}{*}{big}不！停下！！{/big}{/*}{#}
+{#600000}{*}{big}快给我停下！！！{/big}{/*}{#}
+
+DialNewLink06=
+[MADELINE together left]
+所以，你已经演都不演了是吗？
+[BADELINE scoff left]
+对我刮目相看了吗？
+
+DialNewLink07=
+{#600000}{big}游戏时间到此为止{/big}{#}
+{#600000}我已经看穿你的把戏了。{#}
+{#600000}你...或者说你们...{#}
+{#600000}{*}{big}拥有{#FFCC00}那座山{#}的力量，对吧？{/big}{/*}{#}
+{#600000}呼呼呼...我已经渴望那份力量很久了...{#}
+{#600000}可惜我的躯壳被封印在这里，没法亲自前往。{#}
+{#600000}正好，有你们送上门来...{#}
+{#600000}你身体里另一个“灵魂”的力量，我就笑纳了。{#}
+[MADELINE surprised left]
+你要做什么？！
+[]
+{#600000}别着急，你马上就会知道的。{#}
+{#600000}尽情享受你们最后的时光吧...嘻嘻...{#}
+
+DialLinkBoss01=
+[MADELINE surprised left]
+Badeline?!
+你怎么变成这样了？
+[BADELINE serious left]
+......
+[MADELINE sad left]
+另一个我，你能听到我说话吗？
+[BADELINE serious left]
+......
+[BADELINE freakA right]
+{#600000}恐怕不能，亲爱的。{#}
+[MADELINE surprised left]
+是你！！
+[MADELINE angry left]
+你对她做了什么？
+[BADELINE freakA right]
+{#600000}被困在和你相同的身体里，想必她也很苦恼吧。{#}
+{#600000}我替她解决了这个问题。{#}
+[BADELINE freakB right]
+{#600000}等我完全占据她的意识后...{#}
+[BADELINE freakC right]
+{#600000}{*}{big}她就再也不会有烦恼了！！！{/big}{/*}{#}
+[MADELINE angry left]
+混蛋！我不会让你得逞的！！
+[BADELINE freakA right]
+{#600000}哦是吗？你打算怎么阻止我呢？{#}
+[MADELINE angry left]
+我以前就唤醒过她，现在也一样可以！
+[BADELINE freakA right]
+{#600000}{*}{big}哈哈哈哈哈哈哈{/big}{/*}{#}
+[BADELINE freakB right]
+{#600000}你以为自己能救得了她？{#}
+[BADELINE freakC right]
+{#600000}{*}{big}没有她，你什么都不是！！！{/big}{/*}{#}
+[BADELINE freakA right]
+{#600000}来吧，让我看看你的尝试有多可悲吧！{#}
+
+DialBadLink01=
+[MADELINE panic left]
+Badeline，不要这样对我...
+
+DialBadLink02=
+[MADELINE panic left]
+求你快清醒过来吧...
+[BADELINE serious left]
+......
+
+DialBadLink03=
+[MADELINE sadder left]
+我感觉快撑不下去了...
+[MADELINE panic left]
+这样真的救得了另一个我吗？
+[MADELINE sadder left]
+在我备受病痛折磨，陷入低谷的时候，一直都是她陪伴着我。
+可是现在当她需要我的时候，我却不在她身边。
+[MADELINE deadpan left]
+......
+[MADELINE determined left]
+还不能放弃，Madeline。
+你一定可以成功的，该轮到你来保护她了！
+
+DialLinkFinal01=
+[MADELINE sad left]
+另一个我，睁开眼睛吧。
+[MADELINE sadder left]
+我们一起回家，好不好？
+[BADELINE serious left]
+......
+[]
+{#600000}{*}...还不肯放弃吗{/*}{#}
+{#600000}就算她能听见你的声音，你又要怎么来到这边呢？{#}
+{#600000}没有她的帮助，你连越过这些尖刺都做不到。{#}
+[MADELINE angry left]
+闭嘴！我会找到办法的！
+[MADELINE sad left]
+另一个我，再坚持一下，我很快就能到你身边了。
+
+DialLinkFinal02=
+{1.375}
+[BADELINE angry left]
+真是个笨蛋。
+[BADELINE angryAlt left]
+没有我，她居然连那么简单的刺都跳不过来。
+[BADELINE sigh left]
+不过这个老登的意念控制真麻烦啊...
+[BADELINE angryAlt left]
+要不是Madeline那个笨蛋一直在呼唤我，我可能还真醒不过来。
+[BADELINE angry left]
+啧...
+[BADELINE scoff left]
+看她急得都快哭了，我还是想办法帮帮她吧。
+
+DialLinkDream=
+注：右边的这些梦境块并不会回复你的冲刺。{n}穿过上方的移动梦境块会回复至两次冲刺。
+
+DialLinkFinal03=
+[MADELINE sad left]
+咦？这个感觉是...
+[BADELINE scoff left]
+想我了吗？
+[MADELINE surprised left]
+Badeline？！你能听见我说话了？
+[BADELINE sigh left]
+首先，你有没有意识到，当你和我说话的时候...
+[BADELINE scoff left]
+你基本上算是在自说自话？
+[MADELINE upset left]
+这是我今年听过的最烂的梗。
+[MADELINE sad left]
+所以，你的力量恢复了吗？
+[BADELINE scoff left]
+还差一点，不过帮你摆脱眼前的困境应该是足够了。
+[MADELINE upset left]
+你最好能，我已经等不及要把那个老登胖揍一顿了。
+
+DialLinkFinal04=
+{1.125}
+[MADELINE angry left]
+她去哪儿了？
+[]
+{#600000}{*}不...不能再让你靠近她了...{/*}{#}
+{#600000}{*}她已经快要脱离我的掌控了...{/*}{#}
+{#600000}虽然这么做会对我有极大的负担...{#}
+{#600000}但看来我得限制你的能力了。{#}
+{#600000}只要再拖住你一会儿，我的计划就能成功了！{#}
+[MADELINE angry left]
+{big}你做梦！！！{/big}
+
+DialLinkFinal05=
+{#600000}{*}可恶...限制得还不够吗...{/*}{#}
+{#600000}{*}{big}那么，这样如何！{/big}{/*}{#}
+
+DialLinkFinal06=
+[MADELINE panic left]
+我已经没有力气了...
+[MADELINE sadder left]
+可是Badeline还在等着我救她...
+[MADELINE panic left]
+再坚持一下，就一下，求你了...
+
+DialLinkEnd01=
+[MADELINE normal left]
+Badeline，我来啦~
+
+DialLinkEnd03=
+[BADELINE scoff left]
+你可算是来了。
+[MADELINE upset left]
+你知不知道我这一路过来有多辛苦？
+[BADELINE normal left]
+但你还是坚持下来了。
+[MADELINE normal left]
+是的，因为就像你以前一直在我身边一样...
+[MADELINE peaceful left]
+我也会陪在你身边的。
+[MADELINE sad left]
+对了，那个幕后黑手呢？
+[BADELINE angryAlt left]
+它啊，就在我身后呗。
+[BADELINE normal left]
+不过你放心，它的躯体被封印着，而它的精神力{n}在压制我们的过程中已经消耗得差不多了。
+[BADELINE scoff left]
+所以它现在对我们构不成任何威胁。
+[MADELINE upset left]
+好的，请问我现在可以揍死它了吗？
+[BADELINE scoff left]
+算上我一个。
+
+DialLinkEnd04=
+- 净 - 化 - 按 - 钮 -
+以温和而神圣的力量驱散不洁的灵魂。
+
+DialLinkEnd05=
+{#600000}{*}{big}不！！！！！{/big}{/*}{#}
+[MADELINE upset left]
+再见，丑八怪。
+[BADELINE scoff left]
+这方法有够“温和”的。
+[MADELINE normal left]
+我们终于可以回家啦！
+[BADELINE normal left]
+好耶~
+
+DialLinkExtra=
+[MADELINE distracted left]
+啊，我想起来了。
+我们是在路过一大片墓地的时候迷路了。
+在不知道绕了多久后，地面突然开始塌陷。
+[BADELINE worriedAlt left]
+所以，我们是掉进了一个墓穴里？
+[MADELINE distracted left]
+也许是的。另外...
+[MADELINE determined left]
+我好像闻到了水果的味道。
+
+DialTwinStart=
+[MADELINE surprised left]
+Badeline？！你怎么在这里？
+[BADELINE sad left]
+不知道，一股神秘的力量把我弹出来了。
+[BADELINE worriedAlt left]
+为什么我们的四周看着是一样的？
+[MADELINE sad left]
+看来传闻是真的。
+这座塔的确有着空间上的异常。
+[BADELINE worried left]
+小心一点吧，我们中的任何一个受伤都是致命的。
+
+DialSyncTheo=
+{0.5}
+[MADELINE normal left]
+Theo，你也来凑热闹啦。
+[THEO normal left]
+女士们，你们好。
+[THEO thinking left]
+我好像又被困住了。
+[BADELINE normal left]
+你为什么要说又？
+[THEO wtf left]
+......
+[MADELINE together left]
+我们来一起帮他逃出去吧，另一个我。
+[BADELINE sigh left]
+行吧，反正我们也没别的事可以做。
+[THEO yolo left]
+YOLOOOOOOOO~
+[THEO serious left]
+对了，有件事需要注意一下。
+你们要小心别碰到中间的{#0000FF}蓝色屏障{#}，以及别让我的水晶碰到那些{#FF0000}红色屏障{#}。
+[MADELINE sad left]
+碰到的话会怎么样？
+[THEO thinking left]
+会看到烟花。
+
+SyncTheoDrop=
+[THEO wtf left]
+噢，我的女神们，请对我温柔一点。
+
+SyncTheoHint=
+如果你使用的是反转抓取，可以通过下蹲+左跳/右跳的方式{n}快速原地下放Theo水晶。
+如果你使用的是普通抓取，可以通过下蹲+松开抓取键的方式{n}快速原地下放Theo水晶。
+
+SyncTheoLeave=
+{2.5}
+[THEO normal left]
+女士们，看来我们到达终点了。
+[MADELINE sad left]
+我们并不能使用这个出口，Theo。
+[THEO thinking left]
+啊，差点忘了，你们不能穿过{#0000FF}蓝色屏障{#}。
+[BADELINE sigh left]
+是啊，某人因为这个白给了好几次呢。
+[MADELINE upset left]
+你自己不也是一样？
+[THEO worried left]
+那你们要怎么离开呢？
+[MADELINE sad left]
+我想我们只能继续向上走了，而且我们还没有找到{#00FFFF}水晶之心{#}。
+[MADELINE normal left]
+希望到时候还会有别的路。
+[BADELINE scoff left]
+如果没有的话，你就只能祈祷自己会飞了。
+[THEO serious left]
+那祝你们好运，女士们。
+[THEO normal left]
+好了，把我从右侧出口抛出去吧！
+
+SyncTheoFree=
+[THEO excited left]
+我免费啦~~~~
+
+SyncWishFly=
+{1}
+[BADELINE scoff left]
+我刚才说什么来着。
+你要是自己会飞就好了~
+[MADELINE upset left]
+就嘚瑟吧你。
+反正你这么厉害，干脆直接带我飞到塔顶不就好了？
+[BADELINE sigh left]
+带不动，你太胖了。
+[MADELINE upset left]
+反弹。
+[BADELINE normal left]
+反弹你的反弹。
+[MADELINE upset left]
+反弹你的反弹你的反弹。
+[BADELINE normal left]
+反弹你的反弹你的反弹你的反弹。
+[MADELINE angry left]
+反弹你的反弹你的反弹你的反弹你的反弹！
+[BADELINE scoff left]
+反弹你的反弹你的反弹你的反弹你的反弹你的反弹~
+[]
+看着她们和谐相处，你充满了决心。
+然后选择了跳过剧情动画。
+
+SyncThirdRoom01=
+{1}
+[MADELINE sad left]
+看起来空间异象越来越严重了。
+也许{#00FFFF}水晶之心{#}就在附近？
+[BADELINE worriedAlt left]
+找到之后，我们得尽快想办法离开。
+[BADELINE worried left]
+我有些不好的预感。
+
+SyncTowerStart=
+{1}
+[MADELINE sad left]
+这里就是古籍上记载藏有{#00FFFF}水晶之心{#}的银之塔了。
+传闻受到{#00FFFF}水晶之心{#}的影响，塔的内部有着空间异象。
+[MADELINE distracted left]
+希望我能顺利找到这价值连城的宝藏吧...
+
+SyncSplit01=
+{0.5}
+[MADELINE surprised left]
+Badeline？你去哪里了？！
+[BADELINE sad left]
+我也突然看不到你了...
+[MADELINE sad left]
+别着急，让我看看四周，也许能发现什么。
+
+SyncSplit02=
+{1}
+[BADELINE worriedAlt left]
+不行，我还是看不到你。
+[MADELINE normal left]
+没关系，我这边的门打开了。
+只要我们合作，应该就能通过这里。
+[BADELINE worried left]
+我们都看不见彼此，要怎么合作？
+[MADELINE distracted left]
+......
+[MADELINE sad left]
+说实话，我一直隐约感觉有人在指引着我们的行动。
+[MADELINE normal left]
+我想只要那个人愿意帮忙，我们就能看到彼此看见的东西了。
+[BADELINE worriedAlt left]
+好吧，希望你是对的。
+
+SyncFinalRoom01=
+{1.25}
+[MADELINE sad left]
+Badeline，你还在吗？
+[BADELINE worried left]
+嗯，我在。
+[BADELINE worriedAlt left]
+那就是{#00FFFF}水晶之心{#}吗？
+[MADELINE normal left]
+是的，我们终于找到它啦！
+[BADELINE worried left]
+为了那么一块宝石，冒这么大的风险真的值得吗？
+[MADELINE sad left]
+......
+那并不只是一块宝石，另一个我。
+我想要找到它的真正原因是...
+[MADELINE normal left]
+有了它的力量，我就能在{#FFCC00}山{#}以外的地方也见到你了。
+[BADELINE worriedAlt left]
+所以，你其实是为了...我？
+[MADELINE normal left]
+对呀，你想想，如果我在家的时候也能召唤你...
+[BADELINE normal left]
+...嗯？
+[MADELINE togetherZoom left]
+不就可以让你帮我下楼去拿快递了？
+[BADELINE sigh left]
+我到底在期待些什么。
+
+SyncFinalRoom02=
+[BADELINE yell left]
+是陷阱，快逃！！！
+
+SyncGateDeath=
+这里的机关门判定范围比显示范围要大一些，{n}所以请确保在远离机关门的情况下使用开关。
+
+SyncTowerTop=
+[MADELINE surprised left]
+咦，前面那是...真正的{#00FFFF}水晶之心{#}吗？
+[BADELINE scoff left]
+或者其实应该叫，{#5FCDE4}水晶之星{#}？
+[MADELINE normal left]
+啊，看来是文献记载中写错了。
+[MADELINE peaceful left]
+没想到在塔顶可以看到星空。
+[BADELINE scoff left]
+总算是没有白忙活一场了。
+[BADELINE normal left]
+接下来要怎么做？
+[MADELINE normal left]
+就让我们享受这片刻当下吧。
+
+SwitchDial01=
+[MADELINE sad left]
+接到驱魔协会的调查委托，说是附近存在异常的魔力波动。
+这一带地形大多是山脉，唯一可疑的地点就是这座古堡了。
+[MADELINE distracted left]
+希望调查能一切顺利吧...
+
+SwitchDial02=
+[MADELINE sad left]
+空无一人的城堡...
+还有静滞不动的机关...
+[MADELINE distracted left]
+这个地方到底发生了什么？
+
+SwitchDial03=
+[MADELINE upset left]
+......
+果然还是觉得那面镜子很可疑啊。
+[MADELINE sad left]
+不行，我得再去检查一下。
+
+SwitchDial04=
+{2.25}
+[MADELINE surprised left]
+Badeline！我就知道是你在捣鬼！
+[BADELINE angry left]
+你个笨蛋知道什么了？
+[BADELINE angryAlt left]
+难道你就没发现，从你进入这座古堡的那一刻，我就被吸到镜子另一面的世界了吗？
+[MADELINE surprised left]
+你说什么？！
+[BADELINE worriedAlt left]
+可能是因为属性相吸吧...这边的世界有很强大的黑暗能量。
+[MADELINE sad left]
+也许那就是协会侦测到的能量波动吧。我要怎么才能到你那边去？
+[BADELINE worried left]
+这面镜子有连通两边世界的能力，你在镜子前向下冲刺三次就可以了。
+[BADELINE worriedAlt left]
+但是，你一定要做好心理准备，这边的世界实在是有点...
+[BADELINE worried left]
+看到上方那三个机关了吗？它们其实...其实是...
+[MADELINE distracted left]
+是什么？
+[BADELINE worriedAlt left]
+等你看到就知道了。
+
+SwitchDial05=
+{1.75}
+[MADELINE surprised left]
+啊呀，骇死我力！
+[BADELINE worriedAlt left]
+这景象让我想起了一些不愉快的回忆。
+[MADELINE distracted left]
+......
+咦，我怎么变成你的样子了？
+[BADELINE worried left]
+因为这里的黑暗能量太强，不适合你在另一边的身体。
+[MADELINE sad left]
+所以，我现在其实是在你的身体里说话？
+[MADELINE normal left]
+我还从来没这样反过来体验过呢，好像还挺有趣的。
+[BADELINE sigh left]
+亏你还笑得出来，赶紧动身调查然后离开这个鬼地方吧。
+
+SwitchCurse01=
+很久以前，有一位年轻的国王。
+他治国有方，坐拥子民的爱戴，并享有无上的财富和权力。
+他统御的皇家骑士团骁勇善战，而骑士团的首领，恩奇都（Enkidu），亦是他的挚友。
+然而好景不长，恩奇都因长期的战斗和负伤落下病根，最终罹患重病去世。
+挚友的离去对年轻的国王造成了巨大打击，在悲痛中，他意识到{n}人一旦死去，拥有的一切就会随之烟消云散。
+自己拥有的财富，权力，领土，在死亡面前全都一文不值。
+...不，我不允许。
+我绝不允许那样的事也发生在我身上。
+
+SwitchCheat=
+你这个挂壁
+
+SwitchWTF=
+WTF

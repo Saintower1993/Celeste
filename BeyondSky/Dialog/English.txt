@@ -1,0 +1,570 @@
+PuzzleDial01=
+In this map, you will see a certain numbers of Dream Blocks, and you need to dash through them under specific conditions and sequence.
+There are two modes of the game: {#FF0064}Red Mode{#} and {#5FCDE4}Blue Mode{#}. When you dash through a Dream Block in {#FF0064}Red Mode{#}, you will turn it into Lava.
+To win the game, you must turn all the 15 Dream Blocks into Lava.
+
+PuzzleDial02=
+In {#5FCDE4}Blue Mode{#}, you cannot turn Dream Blocks into Lava, and all the Lava you've already turned will be temporarily neutralized so you can safely go through them. 
+However, in this mode, there will also be Ice Wall blocking your way.
+
+PuzzleDial03=
+When you enter the map, you will first be in Viewer Mode and cannot interact with most of the entities.
+You need to pick one of the {#5FCDE4}Blue Switches{#} to turn on and start the game in {#5FCDE4}Blue Mode{#}. Remember, the location you pick is critical to solve the puzzle.
+
+PuzzleDial04=
+After the game starts, you can pick up keys to unlock {#FF0064}Red Switches{#} and change the mode to {#FF0064}Red Mode{#}.
+Note that keys can only be picked up in {#5FCDE4}Blue Mode{#} and all the switches are for one-time use.
+
+PuzzleDial05=
+Due to this map containing a lot of triggers, it may start lagging after running for a while. If this happens, please quit the map and re-enter.
+Thanks for playing!
+
+modname_Saintower=Beyond The World
+endscreen_collabname_Saintower=Beyond The World
+Saintower_0_Lobbies=Beyond The World
+Saintower_0_Lobbies_BeyondSky=Beyond The Sky
+Saintower_0_Lobbies_TheLink=Tether
+Saintower_0_Lobbies_Puzzle=Lost Realm
+poem_Saintower_0_Lobbies_TheLink_A=Tether
+poem_Saintower_TheLink=Unbreakable Tether
+poem_Saintower_0_Lobbies_Puzzle_A=Lost Realm
+Saintower_0_Lobbies_zMyth=Ginso Tower
+poem_Saintower_0_Lobbies_zMyth_A=Doppelganger
+Saintower_0_Lobbies_zz02Castle=Phantom Castle
+
+DialLink01=
+[BADELINE worriedAlt left]
+Madeline, wake up.
+[MADELINE distracted left]
+Where... are we?
+[BADELINE worriedAlt left]
+Do you recall what happened?
+[MADELINE distracted left]
+I recall that... We were on our way back from the {#FFCC00}Mountain Core{#}.
+Then somehow, I lost consciousness... and ended up waking up here.
+[MADELINE panic left]
+This place is so creepy...
+[BADELINE worried left]
+Yeah, we need to find a way out. I have a bad feeling.
+
+DialLink02=
+[BADELINE worriedAlt left]
+I hate these eyes on the wall.
+[MADELINE distracted left]
+It feels like they are spying on us from the shadows.
+[MADELINE normal left]
+But have you noticed there seem to be fewer eyes in this room?
+Maybe it's a sign that we are close to the exit.
+[BADELINE worried left]
+I hope so.
+
+DialLink04=
+[MADELINE surprised left]
+These eyes are attacking us!!
+
+DialLink03=
+{#600000}{*}{big}YOU WILL NEVER ESCAPE{/big}{/*}{#}
+(Without warning, a sinister voice as a demon's whisper echoed.)
+[MADELINE panic left]
+What was that?
+[BADELINE worriedAlt left]
+Not sure, maybe it was the keeper of this tomb?
+[MADELINE panic left]
+I'm so scared... Are we going to be stuck here forever?
+[BADELINE concerned left]
+Listen to me, Madeline, calm down.
+Try to analyze the attack pattern of those eyes, since we may run into them again.
+Don't be afraid, I'm sure we will find a way out.
+[MADELINE distracted left]
+......
+You really think so?
+[BADELINE normal left]
+Yeah, I promise.
+And I will always be by your side and protect you.
+[MADELINE peaceful left]
+Thank you, Part of Me.
+
+DialLinkFall=
+{#600000}{*}{big}FALL INTO THE ABYSS{/big}{/*}{#}
+{#600000}{*}{big}-FALL-{/big}{/*}{#}
+{#600000}{*}{big}-INTO-{/big}{/*}{#}
+{#600000}{*}{big}-THE-{/big}{/*}{#}
+{#600000}{*}{big}-ABYSS-{/big}{/*}{#}
+
+DialLinkEye=
+[MADELINE upset left]
+That was just brutal.
+[BADELINE concerned left]
+Take a close look at the attack pattern of those eyes.
+Maybe there's a way to avoid alerting them?
+
+DialLinkEscape=
+[BADELINE worried left]
+That was a close one.
+[MADELINE normal left]
+Yeah, but I'm glad we still made it.
+I'm seeing a light up ahead, maybe that's the exit.
+[BADELINE normal left]
+Keep going, we are almost there.
+
+DialLinkHappy=
+[BADELINE normal left]
+And there's our way out~
+
+DialLinkMock=
+{#600000}{*}{big}HAHAHAHAHA{/big}{/*}{#}
+{#600000}{*}{big}YOU WILL NEVER EVER{n}LEAVE MY TOMB!!!{/big}{/*}{#}
+
+DialNewLink01=
+{#600000}{*}{big}HOW CAN IT BE?!{/big}{/*}{#}
+{#600000}Those who heard my voice shall all be enchanted and fall into the abyss.{#}
+{#600000}How did you make it?{#}
+[MADELINE upset left]
+This geezer really talks too much.
+Are you going through your midlife crisis?
+[]
+{#600000}{*}{big}ARROGANT PRICK...{/big}{/*}{#}
+{#600000}Keep moving while you still can.{#}
+{#600000}Let's see how long it takes before I crush your will.{#}
+
+DialNewLink02=
+[MADELINE surprised left]
+How is it even possible to jump through this?
+[]
+{#600000}{*}{big}JUST GIVE UP{/big}{/*}{#}
+{#600000}You are trapped in my grasp, mortal.{#}
+[BADELINE yell left]
+Don't listen to him!
+You never know until you try!
+
+DialNewLink03=
+[MADELINE normal left]
+We actually made it!
+[BADELINE scoff left]
+Told you I'd protect you.
+
+DialNewLink04=
+{#600000}{*}{big}RIDICULOUS...{/big}{/*}{#}
+{#600000}Why were you able to break through my traps again and again?{#}
+[MADELINE upset left]
+{big}YOU SUCK.{/big}
+
+DialNewLink05=
+{#600000}{*}{big}NO! STOP!!{/big}{/*}{#}
+{#600000}{*}{big}YOU WILL STOP RIGHT NOW!!!{/big}{/*}{#}
+
+DialNewLink06=
+[MADELINE together left]
+So you didn't even bother to pretend anymore, did you?
+[BADELINE scoff left]
+Impressed?
+
+DialNewLink07=
+{#600000}{big}PLAYTIME IS OVER{/big}{#}
+{#600000}I've seen through your tricks now.{#}
+{#600000}You... or should I rather say, both of you...{#}
+{#600000}{*}{big}Have obtained the power from {#FFCC00}THAT MOUNTAIN{#}, right?{/big}{/*}{#}
+{#600000}I've been craving for that power for too long...{#}
+{#600000}It's a shame that my vessel is sealed here, so I can't fetch for myself.{#}
+{#600000}But now that you are here...{#}
+{#600000}I'll take advantage to absorb the power contained by the {#FFCC00}Independent Soul{#} inside you then.{#}
+[MADELINE surprised left]
+Wait, what are you gonna do?!
+[]
+{#600000}Heehee... You'll see in a moment.{#}
+{#600000}{big}YOUR LAST HOUR STRIKES{/big}{#}
+
+DialLinkBoss01=
+[MADELINE surprised left]
+Badeline?!
+Why do you look like that?
+[BADELINE serious left]
+......
+[MADELINE sad left]
+Part of Me, can you hear me?
+[BADELINE serious left]
+......
+[BADELINE freakA right]
+{#600000}I'm afraid not, sweetheart.{#}
+[MADELINE surprised left]
+It's you!!!
+[MADELINE angry left]
+What did you do to her?
+[BADELINE freakA right]
+{#600000}Trapped in the same vessel as yours, she must feel really miserable.{#}
+{#600000}Well, I can fix that for her.{#}
+[BADELINE freakB right]
+{#600000}Once I take full control over her mind...{#}
+[BADELINE freakC right]
+{#600000}{*}{big}SHE WILL NO LONGER{n}FEEL ANYTHING!!!{/big}{/*}{#}
+[MADELINE angry left]
+Like hell I'll let you get away with that!!
+[BADELINE freakA right]
+{#600000}Oh yeah? How exactly are you planning to stop me?{#}
+[MADELINE angry left]
+I have awakened and calmed her mind before, I can do it again!
+[BADELINE freakA right]
+{#600000}{*}{big}HAHAHAHAHAHAHA{/big}{/*}{#}
+[BADELINE freakB right]
+{#600000}You think you can save her?{#}
+[BADELINE freakC right]
+{#600000}{*}{big}YOU ARE NOTHING{n}WITHOUT HER!!!{/big}{/*}{#}
+[BADELINE freakA right]
+{#600000}Come, show me how pathetic your attempts can be!{#}
+
+DialBadLink01=
+[MADELINE panic left]
+Badeline, please don't do this to me...
+
+DialBadLink02=
+[MADELINE panic left]
+Please come back to me...
+[BADELINE serious left]
+......
+
+DialBadLink03=
+[MADELINE sadder left]
+I don't know if I can hold on any longer...
+[MADELINE panic left]
+Can I really save Part of Me like this?
+[MADELINE sadder left]
+She was always there for me through my sickness and my darkest times.
+But now when she needs me, I'm not by her side.
+[MADELINE deadpan left]
+......
+[MADELINE determined left]
+This is no time to quit, Madeline.
+You can do this. It's your turn to protect her now!
+
+DialLinkFinal01=
+[MADELINE sad left]
+Part of Me, please open your eyes.
+[MADELINE sadder left]
+Let's go home together, shall we?
+[BADELINE serious left]
+......
+[]
+{#600000}{*}So stubborn...{/*}{#}
+{#600000}Even if she can still hear your, how are you gonna make your way over here?{#}
+{#600000}Without her, you can't even get through these spikes.{#}
+[MADELINE angry left]
+Shut up! I will find my way!
+[MADELINE sad left]
+Part of Me, hang in there, I'll be with you soon.
+
+DialLinkFinal02=
+{1.375}
+[BADELINE angry left]
+What a silly girl.
+[BADELINE angryAlt left]
+Without me, she doesn't know how to jump over spikes.
+[BADELINE sigh left]
+But honestly, that geezer's mind control was a tough one...
+[BADELINE angryAlt left]
+If it weren't for Maddy kept calling out to me, I might not break free from it.
+[BADELINE angry left]
+Well then...
+[BADELINE scoff left]
+She looks like she's gonna cry. I guess I have some work to do.
+
+DialLinkDream=
+Note from the good Samaritan:
+The Dream Blocks on the right side won't refill dashes back to you.{n}The moving Dream Block on your top will refill your dashes to twice.
+
+DialLinkFinal03=
+[MADELINE sad left]
+Wait, is this feeling...
+[BADELINE scoff left]
+Miss me?
+[MADELINE surprised left]
+Badeline?! You can hear me now?
+[BADELINE sigh left]
+First of all, did you realize that when you talk to me...
+[BADELINE scoff left]
+You are basically thinking out loud?
+[MADELINE upset left]
+This is my amused face.
+[MADELINE sad left]
+So, have you got your power back?
+[BADELINE scoff left]
+Not quite yet, but should be enough to tackle your dilemma here.
+[MADELINE upset left]
+It'd better be, I can't wait to kick that geezer's butt.
+
+DialLinkFinal04=
+{1.125}
+[MADELINE angry left]
+Where did you take her?
+[]
+{#600000}{*}I... I can't let you get any closer to her...{/*}{#}
+{#600000}{*}She's slipping away from my grasp...{/*}{#}
+{#600000}While this could be a huge burden for me...{#}
+{#600000}Looks like I'm gonna have to restrict your power as well.{#}
+{#600000}I just need to stall you for a bit longer... before my plan finally succeeds!{#}
+[MADELINE angry left]
+{big}IN YOUR WILDEST DREAM!!{/big}
+
+DialLinkFinal05=
+{#600000}{*}All the restrictions were not able to slow you down?{/*}{#}
+{#600000}{*}{big}Then... How about this!!{/big}{/*}{#}
+
+DialLinkFinal06=
+[MADELINE panic left]
+I'm losing all my strength...
+[MADELINE sadder left]
+But Badeline is still waiting for me...
+[MADELINE panic left]
+Please hold on just a little more, please...
+
+DialLinkEnd01=
+[MADELINE normal left]
+Badeline, I'm here~
+
+DialLinkEnd03=
+[BADELINE scoff left]
+Took you long enough.
+[MADELINE upset left]
+Do you know how hard it's been for me to get here?
+[BADELINE normal left]
+And yet you still stick to the end.
+[MADELINE normal left]
+Yes, just like how you were always by my side before...
+[MADELINE peaceful left]
+I will be by your side too.
+[MADELINE sad left]
+Hey, where's the culprit?
+[BADELINE angryAlt left]
+Right behind me.
+[BADELINE normal left]
+But rest assured, his vessel is sealed tight and he's basically drained all the psychic power trying to suppress us.
+[BADELINE scoff left]
+So, he's as harmless as a sweet little pumpkin.
+[MADELINE upset left]
+Great, can I kick his pumpkin butt now?
+[BADELINE scoff left]
+Count me in!
+
+DialLinkEnd04=
++ Purification - Button +
+Banishing unholy spirits with gentle and sacred power.
+
+DialLinkEnd05=
+{#600000}{*}{big}不！！！！！{/big}{/*}{#}
+[MADELINE upset left]
+Goodbye, you ugly freak.
+[BADELINE scoff left]
+Yeah, that was really "gentle".
+[MADELINE normal left]
+We can finally go home!
+[BADELINE normal left]
+Yay~
+
+DialLinkExtra=
+[MADELINE distracted left]
+Ah, I just remembered.
+We got lost when trying to pass a vast graveyard.
+It was really dark, and the path seemed to be twisted into a maze... before it suddenly caved in.
+[BADELINE worriedAlt left]
+So we... fell into a tomb?
+[MADELINE distracted left]
+I think so. And by the way...
+[MADELINE determined left]
+I'm smelling fruit here.
+
+DialTwinStart=
+[MADELINE surprised left]
+Badeline?! How come you are here?
+[BADELINE sad left]
+Not sure, I was forced out by a strange power.
+[BADELINE worriedAlt left]
+Why does it look all the same around us?
+[MADELINE sad left]
+I guess the legend is true then.
+There's indeed a spatial anomaly in this tower.
+[BADELINE worried left]
+Be careful, either of us getting hurt would be lethal.
+
+DialSyncTheo=
+{0.5}
+[MADELINE normal left]
+Theo, you've joined the party!
+[THEO normal left]
+Hello, ladies.
+[THEO thinking left]
+It seems I got myself trapped again.
+[BADELINE normal left]
+Why do you say 'again'?
+[THEO wtf left]
+......
+[MADELINE together left]
+Let's help him escape again then, Part of Me.
+[BADELINE sigh left]
+Alright, it's not like we have anything better to do.
+[THEO yolo left]
+YOLOOOOOOOO~
+[THEO serious left]
+By the way, some heads-up here.
+Try not to touch the {#0000FF}Blue Barriers{#} by yourself, {n}and not let my crystal touch the {#FF0000}Red Barriers{#}.
+[MADELINE sad left]
+What happens if it does?
+[THEO thinking left]
+You get to see fireworks.
+
+SyncTheoDrop=
+[THEO wtf left]
+Oh, my goddesses, please be gentle to me.
+
+SyncTheoHint=
+You can use crouch+jump to quickly let go Theo Crystal if you are using invert grabbing.
+
+SyncTheoLeave=
+{2.5}
+[THEO normal left]
+Ladies, it looks like we've reached the destination.
+[MADELINE sad left]
+We cannot use this exit, Theo.
+[THEO thinking left]
+Oh right, I forgot you cannot touch the {#0000FF}Blue Barrier{#}.
+[BADELINE sigh left]
+Yep, someone got really dunked on for that.
+[MADELINE upset left]
+Ain't the same goes for you too?
+[THEO worried left]
+Then how are you leaving this place?
+[MADELINE sad left]
+I suppose we can only keep going up. Besides, we haven't found the {#00FFFF}Heart of the Ocean{#} yet.
+[MADELINE normal left]
+I hope there's another way to the upper level.
+[BADELINE scoff left]
+If there isn't, you'd better pray that you can fly.
+[THEO serious left]
+Well, good luck then, ladies.
+[THEO normal left]
+It's time to throw me out from the exit!
+
+SyncTheoFree=
+[THEO excited left]
+I'M FREEEEEEEE~~~~
+
+SyncWishFly=
+{1}
+[BADELINE scoff left]
+What did I just say.
+If only you can fly by yourself~
+[MADELINE upset left]
+Yeah, yeah, rub it in.
+If you are that good, why don't you just take me to the top of this tower directly?
+[BADELINE sigh left]
+No can do, you are too heavy.
+[MADELINE upset left]
+Right back at you.
+[BADELINE normal left]
+Right back at your right back at you.
+[MADELINE upset left]
+Right back at your right back at your right back at you.
+[BADELINE normal left]
+Right back at your right back at your right back at your right back at you.
+[MADELINE angry left]
+Right back at your right back at your right back at your right back at your right back at you!
+[BADELINE scoff left]
+Right back at your right back at your right back at your right back at your right back at your right back at you~
+[]
+Watching them getting along so well, you are filled with DETERMINATION.
+And choose to skip the cutscene.
+
+SyncThirdRoom01=
+{1}
+[MADELINE sad left]
+It seems the spatial anomaly is getting worse.
+Maybe that means the {#00FFFF}Heart of the Ocean{#} is nearby?
+[BADELINE worriedAlt left]
+Once we find it, we gotta get out of here soon.
+[BADELINE worried left]
+I'm having a bad feeling about this.
+
+SyncTowerStart=
+{1}
+[MADELINE sad left]
+This is the Ginso Tower where the {#00FFFF}Heart of the Ocean{#} is hidden, according to that ancient manuscript.
+Legend has it that spatial anomaly is seen inside the tower, due to the magic of that diamond.
+[MADELINE distracted left]
+Hope I got luck in finding this priceless treasure...
+
+SyncSplit01=
+{0.5}
+[MADELINE surprised left]
+Badeline? Where did you go?
+[BADELINE sad left]
+I can't see you either...
+[MADELINE sad left]
+Don't worry, let me check around, maybe we'll find something.
+
+SyncSplit02=
+{1}
+[BADELINE worriedAlt left]
+Nope, still no sign of you.
+[MADELINE normal left]
+It's okay, the gate on my side is open now.
+I think we can get through this if we work on it together.
+[BADELINE worried left]
+How do we do that when we can't even see each other?
+[MADELINE distracted left]
+......
+[MADELINE sad left]
+Honestly, It feels like someone has been secretly guiding our moves all along.
+[MADELINE normal left]
+So I suppose with that person's help, we can see what each other sees.
+[BADELINE worriedAlt left]
+Ok, I hope you are right...
+
+SyncFinalRoom01=
+{1.25}
+[MADELINE sad left]
+Badeline, you still there?
+[BADELINE worried left]
+Yeah, I am.
+[BADELINE worriedAlt left]
+Is that the {#00FFFF}Heart of the Ocean{#}?
+[MADELINE normal left]
+Yes, we've finally made it!
+[BADELINE worried left]
+Is it worth all the risks we've been through just for a diamond?
+[MADELINE sad left]
+......
+That's not just a diamond, Part of Me.
+The true reason I want to have it is because...
+[MADELINE normal left]
+With its power, I can see you as well even when we are not at {#FFCC00}The Mountain{#}.
+[BADELINE worriedAlt left]
+So... you are doing this all for... me?
+[MADELINE normal left]
+Of course, just think about it, if I can summon you while at home...
+[BADELINE normal left]
+...Yeah?
+[MADELINE togetherZoom left]
+Then you can go downstairs and pick up my package for me :)
+[BADELINE sigh left]
+What was I even expecting.
+
+SyncFinalRoom02=
+[BADELINE yell left]
+It's fake, watch out!!!
+
+SyncGateDeath=
+For your safety, please operate the gate switch when you are far enough away from the gate.
+
+SyncTowerTop=
+[MADELINE surprised left]
+Wait... Is that the real {#00FFFF}Heart of the Ocean{#} over there?
+[BADELINE scoff left]
+In the shape of a star, apparently.
+[MADELINE normal left]
+Ah, I guess they had it wrong in that ancient manuscript.
+[MADELINE peaceful left]
+Never thought we'd see the starry sky from the top of the tower.
+[BADELINE scoff left]
+I'm glad we got what we came here for.
+[BADELINE normal left]
+So what's the next step?
+[MADELINE normal left]
+Let's just enjoy the view for the moment.
